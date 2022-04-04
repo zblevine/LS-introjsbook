@@ -1,0 +1,23 @@
+{
+  "name": "LS-introjsbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zblevine/LS-introjsbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zblevine/LS-introjsbook/issues"
+  },
+  "homepage": "https://github.com/zblevine/LS-introjsbook#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
